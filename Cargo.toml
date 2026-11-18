@@ -1,0 +1,17 @@
+[package]
+name = "netchecker"
+version = "0.5.1"
+edition = "2024"
+
+[[bin]]
+name = "NetChecker"
+path = "src/main.rs"
+
+[dependencies]
+
+[profile.release]
+opt-level = "z"
+lto = true
+codegen-units = 1
+panic = "abort"
+strip = true
