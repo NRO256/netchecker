@@ -1,7 +1,14 @@
 [package]
 name = "netchecker"
 version = "0.5.1"
+authors = ["NRO / Antigravity"]
 edition = "2024"
+description = "NetChecker Portable - Lightweight Network Diagnostics CLI for Windows 10/11"
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/NRO256/netchecker"
+keywords = ["network", "diagnostics", "windows", "cli", "ping"]
+categories = ["command-line-utilities", "network-programming"]
 
 [[bin]]
 name = "NetChecker"

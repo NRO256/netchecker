@@ -10,6 +10,9 @@ NetChecker Portable ユーザーマニュアル（取扱説明書）
 【開発言語】       Rust 2024 Edition (外部依存クレートゼロ / Win32 APIネイティブ実装)
 【最終更新日】     2026年11月
 【作成者】           NRO / Antigravity
+【配布元】           https://github.com/NRO256/netchecker
+【ダウンロード】     https://github.com/NRO256/netchecker/releases
+【不具合報告】       https://github.com/NRO256/netchecker/issues
 
 
 --------------------------------------------------------------------------------
